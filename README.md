@@ -1,6 +1,6 @@
 # MERN Stack — Full Lab Revision
 ### Aditya University — B.Tech AI & ML
-### Repo: [karthik-ryali/mern-stack](https://github.com/karthik-ryali/mern-stack)
+### Repo: git@github.com:anjiduda77-afk/MERN-STACK-PRACTICE.git
 
 > One place for all 12 weeks. Concepts + code. Read this before any lab exam.
 
